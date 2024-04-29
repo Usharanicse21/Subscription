@@ -1,0 +1,40 @@
+h1{
+    background-color: rgb(230, 120, 171);
+}
+
+.sectione-1
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+    color: white;
+    margin: 15px;
+}
+.sectione-1__card
+{
+    background-color: black;
+    width: 250px;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 10px;
+    gap: 15px;
+    
+    
+}
+.sectione-1__card ul{
+    border: solid 1px white;
+    padding: 15px;
+    list-style-type: none;
+   
+    border-radius:10px;
+}
+h1{
+    width: 1000px;
+    text-align: center;
+    margin-left: 250px;
+}
+.sectione-1__card h2,p
+{
+ text-align: center;
+}
